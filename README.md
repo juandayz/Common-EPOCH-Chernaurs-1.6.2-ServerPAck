@@ -1,27 +1,5 @@
 # Common-EPOCH-Chernaurs-1.6.2-ServerPAck
 
-MODS: 
-[custom crates events],
-[Rubbletown event],
-[WAI],
-[DZAI],
-[DebugMonitor],
-[DeployAnything],
-[LogisticTow&Lift],
-[Remote LockUnlock Pressing T key],
-[Safezones],[Takeclothes],
-[Day Night Cycles],
-[Coins],
-[Restrict Buildings near traders cities],
-[Vehicles with GodMode on plotpoles],
-[ESSV3],[LoadingScreen],
-[MapMarkers],
-[custom ConfigVariables.sqf].
-
-
-
-
-
 
 **INSTALL FOR HOSTS LIKE GTX** 
 
