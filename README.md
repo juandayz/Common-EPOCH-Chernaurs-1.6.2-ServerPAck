@@ -36,7 +36,11 @@ Done.
 Done. Click on START_WITH_RESTART.bat to start your server with autorestart.
 
 
-CONFIGS.
+
+
+
+
+******************************CONFIGS.***
 
 1.Change your BEC password. (C:\DZE_Server_Config\BattlEye\BEServer.cfg)
 ```ruby
