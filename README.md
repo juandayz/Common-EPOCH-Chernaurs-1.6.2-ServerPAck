@@ -1,5 +1,8 @@
 # Common-EPOCH-Chernaurs-1.6.2-ServerPAck
 
+PLEASE DONATE: https://github.com/juandayz/Common-EPOCH-Chernaurs-1.6.2-ServerPAck/blob/master/DONATION.md
+
+
 -This package its designed to save a lot of time when you start a new server. have the most commons mods and uses chernarus map.
 Check the mods list files to know what this have inside.
 
